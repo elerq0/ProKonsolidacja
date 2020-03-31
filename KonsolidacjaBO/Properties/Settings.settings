@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProfessoftBaseFusion.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLServername" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SQLDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SQLUsername" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SQLPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SQLNT" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OptimaUsername" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OptimaPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OptimaCompany" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OptimaPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files (x86)\Comarch ERP Optima</Value>
+    </Setting>
+    <Setting Name="LogFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\temp\bo.log</Value>
+    </Setting>
+    <Setting Name="CompanyAtrName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DocumentAtrName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
